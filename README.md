@@ -77,3 +77,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # plus_plus
+
+
+----------------------------------------------
+
+The most common health issues that accur in entreprises are : eyesight prob hearing prob psy prob
+our platform objective is to optimise the way entreprises keep track of their employees health, by providing eyesight an hearing test as wel as providing an online appointment with a psychiatrist, and it sends all the data from these tests after analysing them to the person responsable of keeping track, and it gives them recommendations and solution to health problems in the entreprise.
